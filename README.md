@@ -9,7 +9,6 @@
         <p>
             I created this project to:
         </p>
-@@ -24,32 +15,26 @@
             <li>Build a real-world project to enhance my front-end development skills, transitioning from <strong>WordPress development</strong> to the <strong>MERN Stack</strong>.</li>
             <li>Implement user-friendly features like dynamic prompts and personalized experiences.</li>
         </ul>
@@ -34,7 +33,6 @@
         </ul>
 
 <h2>🛠 Future Improvements</h2>
-        </ul><h2>🛠 Future Improvements</h2>
         <ul class="features">
             <li><strong>Customization:</strong> Add categories for expenses and allow users to sort their transaction history.</li>
             <li><strong>Database Integration:</strong> Connect the app to a backend for multi-device support.</li>
