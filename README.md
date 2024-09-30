@@ -4,44 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Expense Tracker App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-
-        p, li {
-            color: #34495e;
-        }
-
-        .code-block {
-            background-color: #ecf0f1;
-            padding: 10px;
-            border-radius: 5px;
-            border-left: 5px solid #3498db;
-        }
-
-        .features {
-            list-style: square inside;
-            margin-left: 20px;
-        } 
-
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 10px;
-        }
-
-        .license {
-            font-size: 0.9em;
-            color: #7f8c8d;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="container">
